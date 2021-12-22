@@ -7,5 +7,5 @@ pip install -r requirements.txt
 ```
 
 ## Bibliotecas usadas 
-- [x] Rich 
+- [x] Colorama
 - [x] Webbrowser
